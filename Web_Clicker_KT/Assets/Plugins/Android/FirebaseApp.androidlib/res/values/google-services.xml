@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="firebase_database_url" translatable="false">https://web-clicker-kt-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">493291357800</string>
+  <string name="google_storage_bucket" translatable="false">web-clicker-kt.firebasestorage.app</string>
+  <string name="project_id" translatable="false">web-clicker-kt</string>
+  <string name="google_api_key" translatable="false">AIzaSyA9yApSyW1moCc0g8m95w8K-mghCmcyD4E</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA9yApSyW1moCc0g8m95w8K-mghCmcyD4E</string>
+  <string name="google_app_id" translatable="false">1:493291357800:android:b2ec2a36e86df5d3c21ddd</string>
+</resources>

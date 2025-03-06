@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "493291357800",
+    "firebase_url": "https://web-clicker-kt-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "web-clicker-kt",
+    "storage_bucket": "web-clicker-kt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493291357800:android:b2ec2a36e86df5d3c21ddd",
+        "android_client_info": {
+          "package_name": "com.kt.clicker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9yApSyW1moCc0g8m95w8K-mghCmcyD4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
